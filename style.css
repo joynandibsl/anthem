@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.maindiv {
+    width: 750px;
+    height: auto;
+    border: 1px solid black;
+    box-sizing: border-box;
+    box-shadow: 1px 1px 8px 1px black;
+    margin: auto;
+}
+.sobuj {
+    width: 400px;
+    height: 250px;
+    background: green;
+    border: none;
+    margin: auto;
+        margin-top: auto;
+        margin-bottom: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border: 1px solid black;
+}
+.lal {
+    width: 200px;
+    height: 200px;
+    background: red;
+    border-radius: 50%;
+    position: relative;
+    top: 27px;
+    left: 80px;
+    border: none;
+}
+.name h3 {
+    text-align: center;
+}
+.audio {
+    text-align: center;
+    margin: 20px 0px;
+}
+.aunthem{
+    margin: auto;
+    text-align: center;
+}
+.aunthem h2 {
+    text-decoration: underline;
+    margin-bottom: 20px;
+    color: rebeccapurple;
+}
+.aunthem p {
+    margin-bottom: 50px;
+}
+.button {
+    text-align: center;
+    background-image: linear-gradient(to right, red, green);
+    width: 200px;
+    margin: auto;
+        margin-bottom: auto;
+    padding: 12px 10px;
+    color: wheat;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+}
+.button-bottom{
+    text-align: center;
+    background-image: linear-gradient(to right, green, red);
+    width: 200px;
+    margin: auto;
+        margin-bottom: auto;
+    padding: 12px 10px;
+    color: wheat;
+    font-size: 20px;
+    margin-bottom: 50px;
+    border-radius: 50%
+}
